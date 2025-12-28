@@ -29,9 +29,6 @@ Pair-a-feet is a modern, responsive e-commerce website specializing in stylish a
 
 🚀 Getting Started
 
-Clone the repo and install dependencies:
-
-git clone https://github.com/shubhamnath099/pair-a-feet.git
 cd pair-a-feet
 npm install
 
@@ -129,4 +126,4 @@ This project is licensed under the MIT License.
 
 ---
 
-**Made with ❤️ by SHUBHAM NATH**
+**Made with ❤️ by Nikhil**
